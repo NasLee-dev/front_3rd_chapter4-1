@@ -14,6 +14,9 @@ pnpm dev
 bun dev
 ```
 
+![deploy_architecture drawio](https://github.com/user-attachments/assets/10d9a462-8b0d-4d14-a958-252af1adcb48)
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
