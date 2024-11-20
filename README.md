@@ -114,7 +114,7 @@ gh secret remove AWS_ACCESS_KEY_ID
 
 ### 아키텍쳐 비교
 
-#### S3 직접 접근 방식
+##### S3 직접 접근 방식
 
 request → [단일 리전의 S3] → response
 
@@ -157,7 +157,7 @@ request → [가장 가까운 엣지 로케이션] → [캐시 히트 시 즉시
 - GET 요청당 비용
 - 데이터 전송 비용
 
-#### CloudFront
+##### CloudFront
 
 - 엣지 로케이션 요청 비용
 - 오리진 요청 비용
