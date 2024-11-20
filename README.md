@@ -68,3 +68,12 @@ request → [가장 가까운 엣지 로케이션] → [캐시 히트 시 즉시
  - 엣지 로케이션 요청 비용
  - 오리진 요청 비용
  - 데이터 전송 비용
+
+### S3 실제 성능 지표
+
+![S3성능지표](https://github.com/user-attachments/assets/32ec7814-0e4c-4747-9c86-cbe67cd1e45c)
+
+### CloudFront 실제 성능 지표
+
+
+![CloudFront성능지표](https://github.com/user-attachments/assets/e9087753-cb2d-458a-bd2d-c523dc265dab)
